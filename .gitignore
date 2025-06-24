@@ -1,0 +1,15 @@
+# 🔐 Secrets
+.env
+.env.*
+
+# 🔥 Python cache
+__pycache__/
+*.pyc
+
+# 🧾 PDF or JSON log data (optional)
+backend/pdf_books/*.json
+backend/pdf_books/*.log
+
+# 🙈 Node/IDE (optional)
+.vscode/
+.idea/

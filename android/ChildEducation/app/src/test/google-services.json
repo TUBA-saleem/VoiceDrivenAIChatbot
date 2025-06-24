@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847172548467",
+    "project_id": "childeducationapp-d0b83",
+    "storage_bucket": "childeducationapp-d0b83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847172548467:android:bac57075d0a50a95723706",
+        "android_client_info": {
+          "package_name": "com.example.childeducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847172548467-kd4ki3e40g2b67ommaikc67d6km7rsas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.childeducation",
+            "certificate_hash": "8c50a72de3994bc7d1be240732d60a1633498a20"
+          }
+        },
+        {
+          "client_id": "847172548467-0f93dg4old1vor790lda1614bqti7ac8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPnbLtiNSKtK3AGuFj8JolfgKlPGrYlzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847172548467-0f93dg4old1vor790lda1614bqti7ac8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
